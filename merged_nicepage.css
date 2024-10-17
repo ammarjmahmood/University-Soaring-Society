@@ -26721,7 +26721,7 @@ input.u-field-input.u-field-input.u-active-color-2-light-3:checked {
   background-color: #ADD8E6 !important;
 }
 a.u-link.u-hover-color-2-light-3:hover {
-  color: #fbeced !important;
+  color: #ADD8E6 !important;
 }
 .u-color-2-base,
 .u-body.u-color-2-base,
@@ -29161,7 +29161,7 @@ input.u-field-input.u-field-input.u-active-palette-2-light-3:checked {
   background-color: #ADD8E6 !important;
 }
 a.u-link.u-hover-palette-2-light-3:hover {
-  color: #fbeced !important;
+  color: #ADD8E6 !important;
 }
 .u-palette-2-base,
 .u-body.u-palette-2-base,
@@ -32688,12 +32688,12 @@ input.u-field-input.u-field-input.u-border-active-color-2-light-2:checked {
 .u-border-color-2-light-3.u-input,
 .u-border-color-2-light-3.u-field-input.u-field-input,
 .u-separator-color-2-light-3:after {
-  border-color: #fbeced;
-  stroke: #fbeced;
+  border-color: #ADD8E6;
+  stroke: #ADD8E6;
 }
 .u-button-style.u-border-color-2-light-3 {
   border-color: #ADD8E6 !important;
-  color: #fbeced !important;
+  color: #ADD8E6 !important;
   background-color: transparent !important;
 }
 .u-button-style.u-border-color-2-light-3:hover,
@@ -32713,11 +32713,11 @@ a.u-button-style.u-button-style.u-border-active-color-2-light-3.active,
 a.u-button-style.u-button-style.active > .u-border-active-color-2-light-3,
 li.active > a.u-button-style.u-button-style.u-border-active-color-2-light-3,
 input.u-field-input.u-field-input.u-border-active-color-2-light-3:checked {
-  color: #fbeced !important;
-  border-color: #fbeced !important;
+  color: #ADD8E6 !important;
+  border-color: #ADD8E6 !important;
 }
 .u-link.u-border-color-2-light-3[class*="u-border-"] {
-  border-color: #fbeced !important;
+  border-color: #ADD8E6 !important;
 }
 .u-link.u-border-color-2-light-3[class*="u-border-"]:hover {
   border-color: #f3c4c7 !important;
@@ -34208,12 +34208,12 @@ input.u-field-input.u-field-input.u-border-active-palette-2-light-2:checked {
 .u-border-palette-2-light-3.u-input,
 .u-border-palette-2-light-3.u-field-input.u-field-input,
 .u-separator-palette-2-light-3:after {
-  border-color: #fbeced;
-  stroke: #fbeced;
+  border-color: #ADD8E6;
+  stroke: #ADD8E6;
 }
 .u-button-style.u-border-palette-2-light-3 {
-  border-color: #fbeced !important;
-  color: #fbeced !important;
+  border-color: #ADD8E6 !important;
+  color: #ADD8E6 !important;
   background-color: transparent !important;
 }
 .u-button-style.u-border-palette-2-light-3:hover,
@@ -34233,11 +34233,11 @@ a.u-button-style.u-button-style.u-border-active-palette-2-light-3.active,
 a.u-button-style.u-button-style.active > .u-border-active-palette-2-light-3,
 li.active > a.u-button-style.u-button-style.u-border-active-palette-2-light-3,
 input.u-field-input.u-field-input.u-border-active-palette-2-light-3:checked {
-  color: #fbeced !important;
-  border-color: #fbeced !important;
+  color: #ADD8E6 !important;
+  border-color: #ADD8E6 !important;
 }
 .u-link.u-border-palette-2-light-3[class*="u-border-"] {
-  border-color: #fbeced !important;
+  border-color: #ADD8E6 !important;
 }
 .u-link.u-border-palette-2-light-3[class*="u-border-"]:hover {
   border-color: #f3c4c7 !important;
@@ -36965,7 +36965,7 @@ li.active > a.u-button-style.u-text-color-2-light-3,
 li.active > a.u-button-style.u-text-color-2-light-3[class*="u-border-"],
 a.u-button-style.u-text-color-2-light-3,
 a.u-button-style.u-text-color-2-light-3[class*="u-border-"] {
-  color: #fbeced !important;
+  color: #ADD8E6 !important;
 }
 a.u-button-style.u-text-color-2-light-3:hover,
 a.u-button-style.u-text-color-2-light-3[class*="u-border-"]:hover,
@@ -37002,7 +37002,7 @@ a.u-button-style.u-button-style.active > .u-text-active-color-2-light-3[class*="
 .u-text-hover-color-2-light-3.u-gallery-nav:hover,
 .u-popupmenu-items.u-text-hover-color-2-light-3 .u-nav-link:hover,
 .u-popupmenu-items.u-popupmenu-items.u-text-active-color-2-light-3 .u-nav-link.active {
-  color: #fbeced !important;
+  color: #ADD8E6 !important;
 }
 .u-text-color-2-light-3 .u-svg-link,
 .u-text-hover-color-2-light-3:hover .u-svg-link,
@@ -37011,13 +37011,13 @@ a.u-button-style.u-button-style.active > .u-text-active-color-2-light-3[class*="
 .u-button-style:hover > .u-text-hover-color-2-light-3 .u-svg-link,
 .u-button-style.u-button-style:active > .u-text-active-color-2-light-3 .u-svg-link,
 .u-button-style.u-button-style.active > .u-text-active-color-2-light-3 .u-svg-link {
-  fill: #fbeced;
+  fill: #ADD8E6;
 }
 .u-link.u-text-color-2-light-3:hover {
   color: #f3c4c7 !important;
 }
 a.u-link.u-text-hover-color-2-light-3:hover {
-  color: #fbeced !important;
+  color: #ADD8E6 !important;
 }
 .u-text-color-2-base,
 .u-input.u-text-color-2-base,
