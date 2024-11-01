@@ -1,12 +1,12 @@
 .u-section-1 .u-sheet-1 {
-  min-height: 613px;
+  min-height: 612px;
   margin-bottom: 0;
 }
 
 .u-section-1 .u-gallery-1 {
   height: 559px;
-  margin-top: 27px;
-  margin-bottom: 27px;
+  margin-top: 30px;
+  margin-bottom: 23px;
 }
 
 .u-section-1 .u-carousel-item-1 {
@@ -161,15 +161,6 @@
 .u-section-1 .u-carousel-thumbnail-11 {
   width: 100px;
   height: 100px;
-}
-
-.u-section-1 .u-gallery-item-12 {
-  margin-right: 0;
-}
-
-.u-section-1 .u-over-slide-12 {
-  min-height: 100px;
-  padding: 10px;
 }
 
 .u-section-1 .u-carousel-control-1 {
@@ -419,13 +410,13 @@
 }
 
 .u-section-2 .u-gallery-1 {
-  height: 762px;
+  height: 569px;
   margin-top: 30px;
   margin-bottom: 60px;
 }
 
 .u-section-2 .u-gallery-inner-1 {
-  grid-template-columns: repeat(4, auto);
+  grid-template-columns: repeat(5, auto);
   grid-gap: 10px;
 }
 
@@ -504,28 +495,37 @@
   padding: 20px;
 }
 
-.u-section-2 .u-over-slide-16 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
-  padding: 20px;
-}
-
 @media (max-width: 1199px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 331px;
+    min-height: 399px;
   }
 
   .u-section-2 .u-gallery-1 {
-    height: 628px;
+    height: 469px;
   }
 }
 
 @media (max-width: 991px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 1627px;
+    min-height: 623px;
   }
 
   .u-section-2 .u-gallery-1 {
-    height: 1924px;
+    height: 998px;
+  }
+
+  .u-section-2 .u-gallery-inner-1 {
+    grid-template-columns: repeat(3, auto);
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 1689px;
+  }
+
+  .u-section-2 .u-gallery-1 {
+    height: 1796px;
   }
 
   .u-section-2 .u-gallery-inner-1 {
@@ -533,27 +533,17 @@
   }
 }
 
-@media (max-width: 767px) {
+@media (max-width: 575px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 5475px;
+    min-height: 1097px;
   }
 
   .u-section-2 .u-gallery-1 {
-    height: 5772px;
+    height: 4241px;
   }
 
   .u-section-2 .u-gallery-inner-1 {
     grid-template-columns: repeat(1, auto);
-  }
-}
-
-@media (max-width: 575px) {
-  .u-section-2 .u-sheet-1 {
-    min-height: 3337px;
-  }
-
-  .u-section-2 .u-gallery-1 {
-    height: 3634px;
   }
 } .u-section-3 {
   background-image: none;
