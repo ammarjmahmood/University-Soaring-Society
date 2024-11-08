@@ -275,6 +275,11 @@
 
   .u-section-1 .u-image-1 {
     object-position: 60.83% 37.11%;
+    height: 738px;
+  }
+
+  .u-section-1 .u-list-1 {
+    margin-top: -67px;
   }
 
   .u-section-1 .u-repeater-1 {
@@ -288,9 +293,17 @@
     padding-bottom: 21px;
   }
 
+  .u-section-1 .u-text-3 {
+    width: auto;
+  }
+
   .u-section-1 .u-container-layout-2 {
     padding-top: 12px;
     padding-bottom: 21px;
+  }
+
+  .u-section-1 .u-text-7 {
+    width: auto;
   }
 
   .u-section-1 .u-container-layout-3 {
@@ -298,8 +311,13 @@
     padding-bottom: 21px;
   }
 
+  .u-section-1 .u-text-11 {
+    width: auto;
+  }
+
   .u-section-1 .u-group-1 {
     width: 340px;
+    margin-top: -1227px;
   }
 
   .u-section-1 .u-container-layout-4 {
