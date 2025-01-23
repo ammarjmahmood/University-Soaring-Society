@@ -4,12 +4,12 @@
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 784px;
+  min-height: 785px;
 }
 
 .u-section-1 .u-layout-wrap-1 {
-  width: 1049px;
-  margin: 56px auto 56px 18px;
+  width: 1122px;
+  margin: 56px 0 56px auto;
 }
 
 .u-section-1 .u-layout-cell-1 {
@@ -64,13 +64,16 @@
   height: 100%;
 }
 
-.u-section-1 .u-layout-cell-2 {
+.u-section-1 .u-image-1 {
   min-height: 683px;
   --animation-custom_in-translate_x: -300px;
   --animation-custom_in-translate_y: 0px;
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
+  background-image: url("images/Screenshot2024-08-17at12.52.07PM.jpeg");
+  --radius: 42px;
+  background-position: 50% 50%;
 }
 
 @media (max-width: 1199px) {
@@ -80,19 +83,20 @@
 
   .u-section-1 .u-layout-wrap-1 {
     width: 940px;
-    margin: 86px 0 60px;
+    margin-top: 86px;
+    margin-bottom: 60px;
   }
 
   .u-section-1 .u-layout-cell-1 {
-    min-height: 612px;
+    min-height: 572px;
   }
 
   .u-section-1 .u-text-1 {
-    margin-right: 6px;
+    margin-right: 0;
   }
 
-  .u-section-1 .u-layout-cell-2 {
-    min-height: 772px;
+  .u-section-1 .u-image-1 {
+    min-height: 572px;
   }
 }
 
@@ -114,13 +118,17 @@
     min-height: 711px;
   }
 
+  .u-section-1 .u-text-1 {
+    margin-right: 6px;
+  }
+
   .u-section-1 .u-social-icons-1 {
     width: 197px;
     margin-left: 60px;
   }
 
-  .u-section-1 .u-layout-cell-2 {
-    min-height: 711px;
+  .u-section-1 .u-image-1 {
+    min-height: 438px;
   }
 }
 
@@ -156,8 +164,8 @@
     margin-left: auto;
   }
 
-  .u-section-1 .u-layout-cell-2 {
-    min-height: 781px;
+  .u-section-1 .u-image-1 {
+    min-height: 657px;
   }
 }
 
@@ -185,7 +193,7 @@
     margin-top: 34px;
   }
 
-  .u-section-1 .u-layout-cell-2 {
-    min-height: 475px;
+  .u-section-1 .u-image-1 {
+    min-height: 414px;
   }
 }

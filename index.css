@@ -299,7 +299,7 @@
   background-image: none;
   font-size: 2.25rem;
   font-weight: 700;
-  --radius: 20px;
+  --radius: 35px;
   padding: 25px 30px;
 }
 
@@ -321,7 +321,7 @@
   background-image: none;
   font-size: 2.25rem;
   font-weight: 700;
-  --radius: 20px;
+  --radius: 35px;
   padding: 25px 30px;
 }
 
@@ -343,7 +343,7 @@
   background-image: none;
   font-size: 2.25rem;
   font-weight: 700;
-  --radius: 20px;
+  --radius: 35px;
   padding: 25px 30px;
 }
 
@@ -365,6 +365,7 @@
   background-image: none;
   font-size: 2.25rem;
   font-weight: 700;
+  --radius: 35px;
   padding: 25px 30px;
 }
 
@@ -385,6 +386,7 @@
   background-image: none;
   font-size: 2.25rem;
   font-weight: 700;
+  --radius: 35px;
   padding: 25px 30px;
 }
 
@@ -405,6 +407,7 @@
   background-image: none;
   font-size: 2.25rem;
   font-weight: 700;
+  --radius: 35px;
   padding: 25px 30px;
 }
 
