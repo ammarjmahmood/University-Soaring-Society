@@ -231,11 +231,6 @@
     grid-auto-columns: calc(50% - 9.999975px);
   }
 
-  .u-section-1 .u-group-1 {
-    margin-top: -972px;
-    margin-bottom: 60px;
-  }
-
   .u-section-1 .u-container-layout-4 {
     padding-top: 0;
     padding-left: 0;
@@ -286,7 +281,7 @@
   }
 
   .u-section-1 .u-list-1 {
-    margin-top: 0;
+    margin-top: -56px;
   }
 
   .u-section-1 .u-repeater-1 {
@@ -336,7 +331,8 @@
 
   .u-section-1 .u-group-1 {
     width: 340px;
-    margin-top: -1262px;
+    margin-top: -1165px;
+    margin-bottom: 60px;
   }
 
   .u-section-1 .u-text-13 {
