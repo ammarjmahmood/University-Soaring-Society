@@ -262,7 +262,11 @@
 
   .u-section-1 .u-image-1 {
     object-position: 60.83% 37.11%;
-    height: 738px;
+    height: 661px;
+  }
+
+  .u-section-1 .u-list-1 {
+    margin-top: -127px;
   }
 
   .u-section-1 .u-repeater-1 {
@@ -300,7 +304,7 @@
 
   .u-section-1 .u-group-1 {
     width: 340px;
-    margin-top: -1151px;
+    margin-top: -1126px;
     margin-bottom: 60px;
   }
 
