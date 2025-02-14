@@ -266,12 +266,12 @@
   }
 
   .u-section-1 .u-list-1 {
-    margin-top: -127px;
+    margin-top: 0;
   }
 
   .u-section-1 .u-repeater-1 {
     grid-template-columns: 100%;
-    min-height: 1004px;
+    min-height: 1031px;
     grid-auto-columns: 100%;
   }
 
@@ -304,7 +304,7 @@
 
   .u-section-1 .u-group-1 {
     width: 340px;
-    margin-top: -1126px;
+    margin-top: -1209px;
     margin-bottom: 60px;
   }
 
