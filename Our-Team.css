@@ -257,7 +257,7 @@
 
 @media (max-width: 575px) {
    .u-section-1 {
-    min-height: 1559px;
+    min-height: 1565px;
   }
 
   .u-section-1 .u-image-1 {
@@ -300,6 +300,8 @@
 
   .u-section-1 .u-group-1 {
     width: 340px;
+    margin-top: -1151px;
+    margin-bottom: 60px;
   }
 
   .u-section-1 .u-container-layout-4 {
